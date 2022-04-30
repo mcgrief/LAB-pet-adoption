@@ -1,3 +1,7 @@
 body{
 background-color: dodgerblue;
 }
+#cards{
+  display:flex;
+  flex-flow: row wrap;
+}
